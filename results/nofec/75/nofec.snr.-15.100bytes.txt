@@ -1,0 +1,44 @@
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py
+
+Using Volk machine: avx_64_mmx_orc
+
+>>> Done
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py
+
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 118
+contents = 
+0000: d0 a0 f7 d5 b0 f9 e9 b8 a5 4e 08 8c 17 70 8e fe 
+0010: f5 ff ef f3 ab bb f8 7f f4 1c 74 4c ce 48 24 80 
+0020: 7b 1c fa e2 da e8 b5 80 27 dc 09 7c d9 3e ef aa 
+0030: a7 66 d1 3d be 79 64 66 27 2c 6b 4d b4 cc 08 50 
+0040: 4e d7 0b 77 19 fe d2 da 94 60 71 d3 f3 7d 08 a1 
+0050: 70 20 e1 35 c3 49 cb 09 2f 68 78 55 7b 6c a5 eb 
+0060: b5 e9 85 ce ef 35 8d 93 dc 34 3c b4 e5 f7 d4 14 
+0070: ae 8c 34 71 41 93 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 118
+contents = 
+0000: d0 a0 f7 d5 b0 f9 e9 b8 a5 4e 08 8c 17 70 8e fe 
+0010: f5 ff ef f3 ab bb f8 7f f4 1c 74 4c ce 48 24 80 
+0020: 7b 1c fa e2 da e8 b5 80 27 dc 09 7c d9 3e ef aa 
+0030: a7 66 d1 3d be 79 64 66 27 2c 6b 4d b4 cc 08 50 
+0040: 4e d7 0b 77 19 fe d2 da b0 28 51 c3 d3 79 0a b9 
+0050: f0 20 e1 b5 c3 1d cb 09 2f 78 79 f9 76 fc a5 cb 
+0060: b5 eb c1 ce e0 0c 1c 93 5c 14 3c 95 e5 f7 d4 14 
+0070: ae 8c 34 70 05 93 
+***********************************
+
+>>> Done

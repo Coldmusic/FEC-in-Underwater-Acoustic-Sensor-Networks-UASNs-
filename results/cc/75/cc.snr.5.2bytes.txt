@@ -1,0 +1,16 @@
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py'
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+
+>>> Done
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py'
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+
+>>> Done

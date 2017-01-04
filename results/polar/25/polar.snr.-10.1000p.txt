@@ -1,0 +1,2 @@
+POLAR code channel construction called with parameters channel=BEC, blocksize=32, design SNR=0, mu=32
+Using Volk machine: avx_64_mmx_orc

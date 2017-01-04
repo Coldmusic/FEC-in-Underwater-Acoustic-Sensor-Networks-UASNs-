@@ -1,0 +1,23 @@
+#!/bin/csh
+
+# run KRAKEN, KRAKENC AND SCOOTER
+
+echo "Running KRAKEN"
+kraken $1
+field  $1
+mv $1.prt $1r.prt
+mv $1.shd $1r.shd
+
+echo "Running KRAKENC"
+krakenc $1
+field   $1
+mv $1.prt $1c.prt
+mv $1.shd $1c.shd
+
+echo "Running SCOOTER"
+scooter $1
+fields  $1
+mv $1.prt $1s.prt
+mv $1.shd $1s.shd
+
+plotslice $1

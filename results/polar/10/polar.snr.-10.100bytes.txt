@@ -1,0 +1,58 @@
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py
+
+POLAR code channel construction called with parameters channel=BEC, blocksize=1024, design SNR=0, mu=32
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: b0 3d 16 4c 71 a6 42 89 b0 92 e1 45 22 cd 67 0b 
+0010: 24 3b 97 b0 2f bd 57 40 51 48 77 ca e4 26 27 ab 
+0020: 4e 62 e0 1c 63 08 77 00 30 18 98 c0 01 2d df a4 
+0030: 6d 24 7d d0 a8 10 ee 0e 08 5b 0a 7b 86 e1 d3 67 
+0040: 65 ed d0 10 70 79 5c ea 40 cf 49 c6 61 bf d9 8e 
+0050: 6a cf 6d 30 06 05 c3 0d ea 6e 74 70 80 75 a9 ce 
+0060: 46 ed cd cb 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: b0 3d d6 0d 54 a4 f2 ff b1 93 48 01 5a cd 00 0b 
+0010: 64 0f 2f 7f 6f 81 10 04 73 b0 08 8f c6 3e a7 f7 
+0020: 6c 9b 9f 59 41 10 77 00 30 a0 22 6a 83 8f a9 0f 
+0030: 1b 7b fe 84 51 5a fa 0e 0e e0 b7 d1 da a5 6e 32 
+0040: c8 57 92 ba 10 cc a6 04 df df 4e d7 68 41 20 71 
+0050: 92 ce 6b 30 49 eb 39 f2 57 7f 72 70 99 9b 50 31 
+0060: ae fc cb cb 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: b0 3d 06 1c 76 a6 eb 88 e4 d3 09 45 00 c9 10 01 
+0010: ac bf 58 a0 6b 11 54 34 48 4e 46 b5 4c a7 25 56 
+0020: 64 7f e0 cb 49 0b 77 00 30 48 80 c0 41 38 27 87 
+0030: 93 2f 8f f3 00 4b f9 0e f2 5b 1d 7b 82 ef 3b 67 
+0040: 60 ed 38 10 b2 4f 39 98 ae ca 4a d2 fc 83 fd ac 
+0050: 90 cf 7a 21 ad 5a 95 5d 15 6b 77 75 7b 7a af ce 
+0060: bc ed cb cb 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: b0 3d d6 0d 54 a4 f2 ff b1 93 48 01 5a cd 00 0b 
+0010: 64 0f 2f 7f 6f 81 10 04 73 b0 08 8f c6 3e a7 f7 
+0020: 6c 9b 9f 59 41 10 77 00 30 a0 22 6a 83 8f a9 0f 
+0030: 1b 7b fe 84 51 5a fa 0e 0e e0 b7 d1 da a5 6e 32 
+0040: c8 57 92 ba 10 cc a6 04 df df 4e d7 68 41 20 71 
+0050: 92 ce 6b 30 49 eb 39 f2 57 7f 72 70 99 9b 50 31 
+0060: ae fc cb cb 
+***********************************
+
+>>> Done

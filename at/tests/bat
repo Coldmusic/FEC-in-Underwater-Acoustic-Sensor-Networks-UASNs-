@@ -1,0 +1,23 @@
+#!/bin/csh
+
+# run KRAKEN, KRAKENC, SCOOTER for test cases
+
+cp fieldbat.flp field.flp
+
+foreach env ( pekeris twersky double scholte \
+              flused elsed atten normal ice kupert kuperm kuperb )
+   echo $env
+   kcs  $env
+end
+
+
+# Note that SCOOTER will give wrong results with the
+# KUPER* files since it doesn't treat interfacial roughness
+
+foreach env ( pekeris twersky double scholte \
+              flused elsed atten normal ice kupert kuperm kuperb )
+   echo "********************" $env
+   gdiff ${env}r.prt sgiprt
+   gdiff ${env}c.prt sgiprt
+   gdiff ${env}s.prt sgiprt
+end

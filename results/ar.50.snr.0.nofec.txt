@@ -1,0 +1,117 @@
+
+Generating: '/Users/margaritaotochkina/Downloads/Original GRC files/FSK_Receiver.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Downloads/Original GRC files/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+
+>>> Done

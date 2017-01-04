@@ -1,0 +1,35 @@
+
+>>> Done (return code -9)
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py
+
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c 47 30 ac fe 
+0010: f5 ff f7 f7 28 b9 f8 fb f5 1e 7c cc cc 6c 24 01 
+0020: 6f 1c ea a7 ca e0 f5 80 a7 cc 09 5c d9 36 ef ae 
+0030: ad 66 c1 bd 3e 79 64 6c a7 2c 2b 4d b4 cc 08 51 
+0040: 46 df 0b 26 18 fe d2 d2 b1 20 51 c3 f3 7d 28 a9 
+0050: 60 28 71 31 c3 0d cb 08 2f 68 7d 75 32 7c a5 cb 
+0060: b1 fb c1 ce 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c 47 30 ac fe 
+0010: f5 ff f7 f7 28 b9 f8 fb f5 1e 7c cc cc 6c 24 01 
+0020: 6f 1c ea a7 ca e0 f5 80 a7 cc 09 5c d9 36 ef ae 
+0030: ad 66 c1 bd 3e 79 64 6c a7 2c 2b 4d b4 cc 08 51 
+0040: 46 df 0b 26 18 fe d2 d2 b1 20 51 c3 f3 7d 28 a9 
+0050: 60 28 71 31 c3 0d cb 08 2f 68 7d 75 32 7c a5 cb 
+0060: b1 fb c1 ce 
+***********************************
+
+>>> Done

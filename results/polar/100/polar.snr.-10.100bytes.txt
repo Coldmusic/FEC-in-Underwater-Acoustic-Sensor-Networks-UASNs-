@@ -1,0 +1,34 @@
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/top_block.py
+
+POLAR code channel construction called with parameters channel=BEC, blocksize=1024, design SNR=0, mu=32
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c 47 30 8c fe 
+0010: f5 ff f7 f7 28 b9 f8 fb f5 1c 7c cc cc 4c 24 01 
+0020: 6b 1c ea a3 ca e0 f5 80 a7 c8 09 5c d1 3c ed ae 
+0030: a5 6c c3 bd be 79 65 6c a7 2d 2a 4d b0 c9 09 51 
+0040: 42 da 0a 26 19 ff d3 d2 b0 21 50 c3 f2 7d 09 a9 
+0050: 71 20 60 35 c3 0c ca 09 2f 69 7c 75 73 7c a4 cb 
+0060: b4 eb c0 ce 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c 47 30 8c fe 
+0010: f5 ff f7 f7 28 b9 f8 fb f5 1c 7c cc cc 4c 24 01 
+0020: 6b 1c ea a3 ca e0 f5 80 a7 c8 09 5c d1 3c ed ae 
+0030: a5 6c c3 bd be 79 65 6c a7 2d 2a 4d b0 c9 09 51 
+0040: 42 da 0a 26 19 ff d3 d2 b0 21 50 c3 f2 7d 09 a9 
+0050: 71 20 60 35 c3 0c ca 09 2f 69 7c 75 73 7c a4 cb 
+0060: b4 eb c0 ce 
+***********************************
+
+>>> Done

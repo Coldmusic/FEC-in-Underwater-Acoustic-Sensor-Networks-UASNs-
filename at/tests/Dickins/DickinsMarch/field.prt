@@ -1,0 +1,653 @@
+
+ __________________________________________________
+ Running FIELD
+ Sums modes, producing pressure
+
+ Range-dependent calculation
+ Coupled modes
+
+ Number of profiles   =          101
+   0.00000      0.300000      0.600000      0.900000       1.20000    
+   1.50000       1.80000       2.10000       2.40000       2.70000    
+   3.00000       3.30000       3.60000       3.90000       4.20000    
+   4.50000       4.80000       5.10000       5.40000       5.70000    
+   6.00000    
+  ...    30.000002    
+
+ Number of ranges   =         1001
+ Receiver ranges (km)
+   0.00000      0.100000      0.200000      0.300000      0.400000    
+  0.500000      0.600000      0.700000      0.800000      0.900000    
+   1.00000       1.10000       1.20000       1.30000       1.40000    
+   1.50000       1.60000       1.70000       1.80000       1.90000    
+   2.00000    
+  ...   100.000000    
+
+ Number of sources   =            1
+ Source depths (m)
+   18.0000    
+
+ Number of receivers =          201
+ Receiver depths (m)
+   0.00000       15.0000       30.0000       45.0000       60.0000    
+   75.0000       90.0000       105.000       120.000       135.000    
+   150.000       165.000       180.000       195.000       210.000    
+   225.000       240.000       255.000       270.000       285.000    
+   300.000    
+  ...    3000.0000    
+
+ Number of receiver range offsets =          201
+ Receiver range offsets (km)
+   0.00000       0.00000       0.00000       0.00000       0.00000    
+   0.00000       0.00000       0.00000       0.00000       0.00000    
+   0.00000       0.00000       0.00000       0.00000       0.00000    
+   0.00000       0.00000       0.00000       0.00000       0.00000    
+   0.00000    
+  ...    0.0000000    
+
+ iprof =            1
+ KRAKEN- Dickins seamount #1                                                     
+ iprof =            1
+ KRAKEN- Dickins seamount #1                                                     
+ iprof =            1
+ KRAKEN- Dickins seamount #1                                                     
+ iprof =            1
+ KRAKEN- Dickins seamount #1                                                     
+ iprof =            2
+ KRAKEN- Dickins seamount #2                                                     
+ depth-averaged power:  0.67444062    
+ New profile read at receiver range  0.20000000               2  #modes =          265
+ iprof =            2
+ KRAKEN- Dickins seamount #2                                                     
+ iprof =            3
+ KRAKEN- Dickins seamount #3                                                     
+ depth-averaged power:  0.67149633    
+ New profile read at receiver range  0.50000000               3  #modes =          265
+ iprof =            3
+ KRAKEN- Dickins seamount #3                                                     
+ iprof =            4
+ KRAKEN- Dickins seamount #4                                                     
+ depth-averaged power:  0.66860181    
+ New profile read at receiver range  0.80000001               4  #modes =          265
+ iprof =            4
+ KRAKEN- Dickins seamount #4                                                     
+ iprof =            5
+ KRAKEN- Dickins seamount #5                                                     
+ depth-averaged power:  0.66575623    
+ New profile read at receiver range   1.1000000               5  #modes =          265
+ iprof =            5
+ KRAKEN- Dickins seamount #5                                                     
+ iprof =            6
+ KRAKEN- Dickins seamount #6                                                     
+ depth-averaged power:  0.66295671    
+ New profile read at receiver range   1.4000001               6  #modes =          265
+ iprof =            6
+ KRAKEN- Dickins seamount #6                                                     
+ iprof =            7
+ KRAKEN- Dickins seamount #7                                                     
+ depth-averaged power:  0.66020250    
+ New profile read at receiver range   1.7000000               7  #modes =          265
+ iprof =            7
+ KRAKEN- Dickins seamount #7                                                     
+ iprof =            8
+ KRAKEN- Dickins seamount #8                                                     
+ depth-averaged power:  0.65749145    
+ New profile read at receiver range   2.0000000               8  #modes =          265
+ iprof =            8
+ KRAKEN- Dickins seamount #8                                                     
+ iprof =            9
+ KRAKEN- Dickins seamount #9                                                     
+ depth-averaged power:  0.65482241    
+ New profile read at receiver range   2.3000002               9  #modes =          265
+ iprof =            9
+ KRAKEN- Dickins seamount #9                                                     
+ iprof =           10
+ KRAKEN- Dickins seamount #10                                                    
+ depth-averaged power:  0.65219432    
+ New profile read at receiver range   2.6000004              10  #modes =          265
+ iprof =           10
+ KRAKEN- Dickins seamount #10                                                    
+ iprof =           11
+ KRAKEN- Dickins seamount #11                                                    
+ depth-averaged power:  0.64960545    
+ New profile read at receiver range   2.9000001              11  #modes =          265
+ iprof =           11
+ KRAKEN- Dickins seamount #11                                                    
+ iprof =           12
+ KRAKEN- Dickins seamount #12                                                    
+ depth-averaged power:  0.64705533    
+ New profile read at receiver range   3.2000000              12  #modes =          265
+ iprof =           12
+ KRAKEN- Dickins seamount #12                                                    
+ iprof =           13
+ KRAKEN- Dickins seamount #13                                                    
+ depth-averaged power:  0.64454198    
+ New profile read at receiver range   3.5000002              13  #modes =          265
+ iprof =           13
+ KRAKEN- Dickins seamount #13                                                    
+ iprof =           14
+ KRAKEN- Dickins seamount #14                                                    
+ depth-averaged power:  0.64206505    
+ New profile read at receiver range   3.8000002              14  #modes =          265
+ iprof =           14
+ KRAKEN- Dickins seamount #14                                                    
+ iprof =           15
+ KRAKEN- Dickins seamount #15                                                    
+ depth-averaged power:  0.63962352    
+ New profile read at receiver range   4.1000004              15  #modes =          265
+ iprof =           15
+ KRAKEN- Dickins seamount #15                                                    
+ iprof =           16
+ KRAKEN- Dickins seamount #16                                                    
+ depth-averaged power:  0.63721585    
+ New profile read at receiver range   4.4000001              16  #modes =          265
+ iprof =           16
+ KRAKEN- Dickins seamount #16                                                    
+ iprof =           17
+ KRAKEN- Dickins seamount #17                                                    
+ depth-averaged power:  0.63484198    
+ New profile read at receiver range   4.7000008              17  #modes =          265
+ iprof =           17
+ KRAKEN- Dickins seamount #17                                                    
+ iprof =           18
+ KRAKEN- Dickins seamount #18                                                    
+ depth-averaged power:  0.63250059    
+ New profile read at receiver range   5.0000000              18  #modes =          265
+ iprof =           18
+ KRAKEN- Dickins seamount #18                                                    
+ iprof =           19
+ KRAKEN- Dickins seamount #19                                                    
+ depth-averaged power:  0.63019043    
+ New profile read at receiver range   5.3000002              19  #modes =          265
+ iprof =           19
+ KRAKEN- Dickins seamount #19                                                    
+ iprof =           20
+ KRAKEN- Dickins seamount #20                                                    
+ depth-averaged power:  0.62791127    
+ New profile read at receiver range   5.6000004              20  #modes =          265
+ iprof =           20
+ KRAKEN- Dickins seamount #20                                                    
+ iprof =           21
+ KRAKEN- Dickins seamount #21                                                    
+ depth-averaged power:  0.62566191    
+ New profile read at receiver range   5.9000001              21  #modes =          265
+ iprof =           21
+ KRAKEN- Dickins seamount #21                                                    
+ iprof =           22
+ KRAKEN- Dickins seamount #22                                                    
+ depth-averaged power:  0.62344146    
+ New profile read at receiver range   6.2000008              22  #modes =          265
+ iprof =           22
+ KRAKEN- Dickins seamount #22                                                    
+ iprof =           23
+ KRAKEN- Dickins seamount #23                                                    
+ depth-averaged power:  0.62124944    
+ New profile read at receiver range   6.5000005              23  #modes =          265
+ iprof =           23
+ KRAKEN- Dickins seamount #23                                                    
+ iprof =           24
+ KRAKEN- Dickins seamount #24                                                    
+ depth-averaged power:  0.61908495    
+ New profile read at receiver range   6.8000002              24  #modes =          265
+ iprof =           24
+ KRAKEN- Dickins seamount #24                                                    
+ iprof =           25
+ KRAKEN- Dickins seamount #25                                                    
+ depth-averaged power:  0.61694664    
+ New profile read at receiver range   7.1000004              25  #modes =          265
+ iprof =           25
+ KRAKEN- Dickins seamount #25                                                    
+ iprof =           26
+ KRAKEN- Dickins seamount #26                                                    
+ depth-averaged power:  0.61483371    
+ New profile read at receiver range   7.4000006              26  #modes =          265
+ iprof =           26
+ KRAKEN- Dickins seamount #26                                                    
+ iprof =           27
+ KRAKEN- Dickins seamount #27                                                    
+ depth-averaged power:  0.61274493    
+ New profile read at receiver range   7.7000008              27  #modes =          265
+ iprof =           27
+ KRAKEN- Dickins seamount #27                                                    
+ iprof =           28
+ KRAKEN- Dickins seamount #28                                                    
+ depth-averaged power:  0.61067861    
+ New profile read at receiver range   8.0000000              28  #modes =          265
+ iprof =           28
+ KRAKEN- Dickins seamount #28                                                    
+ iprof =           29
+ KRAKEN- Dickins seamount #29                                                    
+ depth-averaged power:  0.60863280    
+ New profile read at receiver range   8.3000002              29  #modes =          265
+ iprof =           29
+ KRAKEN- Dickins seamount #29                                                    
+ iprof =           30
+ KRAKEN- Dickins seamount #30                                                    
+ depth-averaged power:  0.60660368    
+ New profile read at receiver range   8.6000004              30  #modes =          265
+ iprof =           30
+ KRAKEN- Dickins seamount #30                                                    
+ iprof =           31
+ KRAKEN- Dickins seamount #31                                                    
+ depth-averaged power:  0.60458553    
+ New profile read at receiver range   8.9000015              31  #modes =          265
+ iprof =           31
+ KRAKEN- Dickins seamount #31                                                    
+ iprof =           32
+ KRAKEN- Dickins seamount #32                                                    
+ depth-averaged power:  0.60256755    
+ New profile read at receiver range   9.2000008              32  #modes =          265
+ iprof =           32
+ KRAKEN- Dickins seamount #32                                                    
+ iprof =           33
+ KRAKEN- Dickins seamount #33                                                    
+ depth-averaged power:  0.60052645    
+ New profile read at receiver range   9.5000000              33  #modes =          265
+ iprof =           33
+ KRAKEN- Dickins seamount #33                                                    
+ iprof =           34
+ KRAKEN- Dickins seamount #34                                                    
+ depth-averaged power:  0.59840769    
+ New profile read at receiver range   9.8000002              34  #modes =          265
+ iprof =           34
+ KRAKEN- Dickins seamount #34                                                    
+ iprof =           35
+ KRAKEN- Dickins seamount #35                                                    
+ depth-averaged power:  0.59186643    
+ New profile read at receiver range   10.100000              35  #modes =          261
+ iprof =           35
+ KRAKEN- Dickins seamount #35                                                    
+ iprof =           36
+ KRAKEN- Dickins seamount #36                                                    
+ depth-averaged power:  0.57321870    
+ New profile read at receiver range   10.400002              36  #modes =          256
+ iprof =           36
+ KRAKEN- Dickins seamount #36                                                    
+ iprof =           37
+ KRAKEN- Dickins seamount #37                                                    
+ depth-averaged power:  0.53388774    
+ New profile read at receiver range   10.700001              37  #modes =          250
+ iprof =           37
+ KRAKEN- Dickins seamount #37                                                    
+ iprof =           38
+ KRAKEN- Dickins seamount #38                                                    
+ depth-averaged power:  0.49417618    
+ New profile read at receiver range   11.000001              38  #modes =          245
+ iprof =           38
+ KRAKEN- Dickins seamount #38                                                    
+ iprof =           39
+ KRAKEN- Dickins seamount #39                                                    
+ depth-averaged power:  0.45620558    
+ New profile read at receiver range   11.300000              39  #modes =          239
+ iprof =           39
+ KRAKEN- Dickins seamount #39                                                    
+ iprof =           40
+ KRAKEN- Dickins seamount #40                                                    
+ depth-averaged power:  0.42270118    
+ New profile read at receiver range   11.600000              40  #modes =          233
+ iprof =           40
+ KRAKEN- Dickins seamount #40                                                    
+ iprof =           41
+ KRAKEN- Dickins seamount #41                                                    
+ depth-averaged power:  0.39615792    
+ New profile read at receiver range   11.900002              41  #modes =          227
+ iprof =           41
+ KRAKEN- Dickins seamount #41                                                    
+ iprof =           42
+ KRAKEN- Dickins seamount #42                                                    
+ depth-averaged power:  0.37676737    
+ New profile read at receiver range   12.200001              42  #modes =          221
+ iprof =           42
+ KRAKEN- Dickins seamount #42                                                    
+ iprof =           43
+ KRAKEN- Dickins seamount #43                                                    
+ depth-averaged power:  0.36485478    
+ New profile read at receiver range   12.500001              43  #modes =          215
+ iprof =           43
+ KRAKEN- Dickins seamount #43                                                    
+ iprof =           44
+ KRAKEN- Dickins seamount #44                                                    
+ depth-averaged power:  0.35894129    
+ New profile read at receiver range   12.800000              44  #modes =          209
+ iprof =           44
+ KRAKEN- Dickins seamount #44                                                    
+ iprof =           45
+ KRAKEN- Dickins seamount #45                                                    
+ depth-averaged power:  0.35693043    
+ New profile read at receiver range   13.100000              45  #modes =          203
+ iprof =           45
+ KRAKEN- Dickins seamount #45                                                    
+ iprof =           46
+ KRAKEN- Dickins seamount #46                                                    
+ depth-averaged power:  0.35666350    
+ New profile read at receiver range   13.400002              46  #modes =          197
+ iprof =           46
+ KRAKEN- Dickins seamount #46                                                    
+ iprof =           47
+ KRAKEN- Dickins seamount #47                                                    
+ depth-averaged power:  0.35601357    
+ New profile read at receiver range   13.700001              47  #modes =          190
+ iprof =           47
+ KRAKEN- Dickins seamount #47                                                    
+ iprof =           48
+ KRAKEN- Dickins seamount #48                                                    
+ depth-averaged power:  0.35319671    
+ New profile read at receiver range   14.000001              48  #modes =          184
+ iprof =           48
+ KRAKEN- Dickins seamount #48                                                    
+ iprof =           49
+ KRAKEN- Dickins seamount #49                                                    
+ depth-averaged power:  0.34669083    
+ New profile read at receiver range   14.300001              49  #modes =          178
+ iprof =           49
+ KRAKEN- Dickins seamount #49                                                    
+ iprof =           50
+ KRAKEN- Dickins seamount #50                                                    
+ depth-averaged power:  0.33551806    
+ New profile read at receiver range   14.600000              50  #modes =          171
+ iprof =           50
+ KRAKEN- Dickins seamount #50                                                    
+ iprof =           51
+ KRAKEN- Dickins seamount #51                                                    
+ depth-averaged power:  0.31961963    
+ New profile read at receiver range   14.900002              51  #modes =          165
+ iprof =           51
+ KRAKEN- Dickins seamount #51                                                    
+ iprof =           52
+ KRAKEN- Dickins seamount #52                                                    
+ depth-averaged power:  0.29939359    
+ New profile read at receiver range   15.200001              52  #modes =          158
+ iprof =           52
+ KRAKEN- Dickins seamount #52                                                    
+ iprof =           53
+ KRAKEN- Dickins seamount #53                                                    
+ depth-averaged power:  0.27626514    
+ New profile read at receiver range   15.500001              53  #modes =          151
+ iprof =           53
+ KRAKEN- Dickins seamount #53                                                    
+ iprof =           54
+ KRAKEN- Dickins seamount #54                                                    
+ depth-averaged power:  0.25061792    
+ New profile read at receiver range   15.800001              54  #modes =          145
+ iprof =           54
+ KRAKEN- Dickins seamount #54                                                    
+ iprof =           55
+ KRAKEN- Dickins seamount #55                                                    
+ depth-averaged power:  0.22246835    
+ New profile read at receiver range   16.100000              55  #modes =          138
+ iprof =           55
+ KRAKEN- Dickins seamount #55                                                    
+ iprof =           56
+ KRAKEN- Dickins seamount #56                                                    
+ depth-averaged power:  0.19142930    
+ New profile read at receiver range   16.400002              56  #modes =          131
+ iprof =           56
+ KRAKEN- Dickins seamount #56                                                    
+ iprof =           57
+ KRAKEN- Dickins seamount #57                                                    
+ depth-averaged power:  0.15573223    
+ New profile read at receiver range   16.700001              57  #modes =          124
+ iprof =           57
+ KRAKEN- Dickins seamount #57                                                    
+ iprof =           58
+ KRAKEN- Dickins seamount #58                                                    
+ depth-averaged power:  0.11534328    
+ New profile read at receiver range   17.000000              58  #modes =          118
+ iprof =           58
+ KRAKEN- Dickins seamount #58                                                    
+ iprof =           59
+ KRAKEN- Dickins seamount #59                                                    
+ depth-averaged power:  7.62381926E-02
+ New profile read at receiver range   17.300003              59  #modes =          111
+ iprof =           59
+ KRAKEN- Dickins seamount #59                                                    
+ iprof =           60
+ KRAKEN- Dickins seamount #60                                                    
+ depth-averaged power:  4.43926156E-02
+ New profile read at receiver range   17.600000              60  #modes =          104
+ iprof =           60
+ KRAKEN- Dickins seamount #60                                                    
+ iprof =           61
+ KRAKEN- Dickins seamount #61                                                    
+ depth-averaged power:  2.25359648E-02
+ New profile read at receiver range   17.900002              61  #modes =           97
+ iprof =           61
+ KRAKEN- Dickins seamount #61                                                    
+ iprof =           62
+ KRAKEN- Dickins seamount #62                                                    
+ depth-averaged power:  1.21918423E-02
+ New profile read at receiver range   18.200001              62  #modes =           90
+ iprof =           62
+ KRAKEN- Dickins seamount #62                                                    
+ iprof =           63
+ KRAKEN- Dickins seamount #63                                                    
+ depth-averaged power:  6.13576127E-03
+ New profile read at receiver range   18.500000              63  #modes =           82
+ iprof =           63
+ KRAKEN- Dickins seamount #63                                                    
+ iprof =           64
+ KRAKEN- Dickins seamount #64                                                    
+ depth-averaged power:  3.11610405E-03
+ New profile read at receiver range   18.800003              64  #modes =           75
+ iprof =           64
+ KRAKEN- Dickins seamount #64                                                    
+ iprof =           65
+ KRAKEN- Dickins seamount #65                                                    
+ depth-averaged power:  1.84068223E-03
+ New profile read at receiver range   19.100000              65  #modes =           68
+ iprof =           65
+ KRAKEN- Dickins seamount #65                                                    
+ iprof =           66
+ KRAKEN- Dickins seamount #66                                                    
+ depth-averaged power:  1.28282409E-03
+ New profile read at receiver range   19.400002              66  #modes =           61
+ iprof =           66
+ KRAKEN- Dickins seamount #66                                                    
+ iprof =           67
+ KRAKEN- Dickins seamount #67                                                    
+ depth-averaged power:  7.07228843E-04
+ New profile read at receiver range   19.700001              67  #modes =           54
+ iprof =           67
+ KRAKEN- Dickins seamount #67                                                    
+ iprof =           68
+ KRAKEN- Dickins seamount #68                                                    
+ depth-averaged power:  6.00694329E-04
+ New profile read at receiver range   20.000000              68  #modes =           51
+ iprof =           68
+ KRAKEN- Dickins seamount #68                                                    
+ iprof =           69
+ KRAKEN- Dickins seamount #69                                                    
+ depth-averaged power:  5.91151242E-04
+ New profile read at receiver range   20.300003              69  #modes =           59
+ iprof =           69
+ KRAKEN- Dickins seamount #69                                                    
+ iprof =           70
+ KRAKEN- Dickins seamount #70                                                    
+ depth-averaged power:  5.84175810E-04
+ New profile read at receiver range   20.600000              70  #modes =           66
+ iprof =           70
+ KRAKEN- Dickins seamount #70                                                    
+ iprof =           71
+ KRAKEN- Dickins seamount #71                                                    
+ depth-averaged power:  5.78493171E-04
+ New profile read at receiver range   20.900002              71  #modes =           73
+ iprof =           71
+ KRAKEN- Dickins seamount #71                                                    
+ iprof =           72
+ KRAKEN- Dickins seamount #72                                                    
+ depth-averaged power:  5.73671365E-04
+ New profile read at receiver range   21.200001              72  #modes =           80
+ iprof =           72
+ KRAKEN- Dickins seamount #72                                                    
+ iprof =           73
+ KRAKEN- Dickins seamount #73                                                    
+ depth-averaged power:  5.69492986E-04
+ New profile read at receiver range   21.500002              73  #modes =           87
+ iprof =           73
+ KRAKEN- Dickins seamount #73                                                    
+ iprof =           74
+ KRAKEN- Dickins seamount #74                                                    
+ depth-averaged power:  5.65858849E-04
+ New profile read at receiver range   21.800003              74  #modes =           94
+ iprof =           74
+ KRAKEN- Dickins seamount #74                                                    
+ iprof =           75
+ KRAKEN- Dickins seamount #75                                                    
+ depth-averaged power:  5.62662026E-04
+ New profile read at receiver range   22.100000              75  #modes =          101
+ iprof =           75
+ KRAKEN- Dickins seamount #75                                                    
+ iprof =           76
+ KRAKEN- Dickins seamount #76                                                    
+ depth-averaged power:  5.59827662E-04
+ New profile read at receiver range   22.400002              76  #modes =          108
+ iprof =           76
+ KRAKEN- Dickins seamount #76                                                    
+ iprof =           77
+ KRAKEN- Dickins seamount #77                                                    
+ depth-averaged power:  5.57296386E-04
+ New profile read at receiver range   22.700001              77  #modes =          115
+ iprof =           77
+ KRAKEN- Dickins seamount #77                                                    
+ iprof =           78
+ KRAKEN- Dickins seamount #78                                                    
+ depth-averaged power:  5.54990722E-04
+ New profile read at receiver range   23.000002              78  #modes =          122
+ iprof =           78
+ KRAKEN- Dickins seamount #78                                                    
+ iprof =           79
+ KRAKEN- Dickins seamount #79                                                    
+ depth-averaged power:  5.52864454E-04
+ New profile read at receiver range   23.300003              79  #modes =          129
+ iprof =           79
+ KRAKEN- Dickins seamount #79                                                    
+ iprof =           80
+ KRAKEN- Dickins seamount #80                                                    
+ depth-averaged power:  5.50902798E-04
+ New profile read at receiver range   23.600000              80  #modes =          136
+ iprof =           80
+ KRAKEN- Dickins seamount #80                                                    
+ iprof =           81
+ KRAKEN- Dickins seamount #81                                                    
+ depth-averaged power:  5.49184682E-04
+ New profile read at receiver range   23.900002              81  #modes =          143
+ iprof =           81
+ KRAKEN- Dickins seamount #81                                                    
+ iprof =           82
+ KRAKEN- Dickins seamount #82                                                    
+ depth-averaged power:  5.47487114E-04
+ New profile read at receiver range   24.200001              82  #modes =          149
+ iprof =           82
+ KRAKEN- Dickins seamount #82                                                    
+ iprof =           83
+ KRAKEN- Dickins seamount #83                                                    
+ depth-averaged power:  5.45844028E-04
+ New profile read at receiver range   24.500002              83  #modes =          156
+ iprof =           83
+ KRAKEN- Dickins seamount #83                                                    
+ iprof =           84
+ KRAKEN- Dickins seamount #84                                                    
+ depth-averaged power:  5.44211536E-04
+ New profile read at receiver range   24.800003              84  #modes =          162
+ iprof =           84
+ KRAKEN- Dickins seamount #84                                                    
+ iprof =           85
+ KRAKEN- Dickins seamount #85                                                    
+ depth-averaged power:  5.42732771E-04
+ New profile read at receiver range   25.100000              85  #modes =          169
+ iprof =           85
+ KRAKEN- Dickins seamount #85                                                    
+ iprof =           86
+ KRAKEN- Dickins seamount #86                                                    
+ depth-averaged power:  5.41401503E-04
+ New profile read at receiver range   25.400002              86  #modes =          176
+ iprof =           86
+ KRAKEN- Dickins seamount #86                                                    
+ iprof =           87
+ KRAKEN- Dickins seamount #87                                                    
+ depth-averaged power:  5.40107372E-04
+ New profile read at receiver range   25.700001              87  #modes =          182
+ iprof =           87
+ KRAKEN- Dickins seamount #87                                                    
+ iprof =           88
+ KRAKEN- Dickins seamount #88                                                    
+ depth-averaged power:  5.38823369E-04
+ New profile read at receiver range   26.000002              88  #modes =          188
+ iprof =           88
+ KRAKEN- Dickins seamount #88                                                    
+ iprof =           89
+ KRAKEN- Dickins seamount #89                                                    
+ depth-averaged power:  5.37597749E-04
+ New profile read at receiver range   26.300003              89  #modes =          195
+ iprof =           89
+ KRAKEN- Dickins seamount #89                                                    
+ iprof =           90
+ KRAKEN- Dickins seamount #90                                                    
+ depth-averaged power:  5.36442210E-04
+ New profile read at receiver range   26.600000              90  #modes =          201
+ iprof =           90
+ KRAKEN- Dickins seamount #90                                                    
+ iprof =           91
+ KRAKEN- Dickins seamount #91                                                    
+ depth-averaged power:  5.35365136E-04
+ New profile read at receiver range   26.900002              91  #modes =          207
+ iprof =           91
+ KRAKEN- Dickins seamount #91                                                    
+ iprof =           92
+ KRAKEN- Dickins seamount #92                                                    
+ depth-averaged power:  5.34325955E-04
+ New profile read at receiver range   27.200001              92  #modes =          213
+ iprof =           92
+ KRAKEN- Dickins seamount #92                                                    
+ iprof =           93
+ KRAKEN- Dickins seamount #93                                                    
+ depth-averaged power:  5.33298997E-04
+ New profile read at receiver range   27.500002              93  #modes =          219
+ iprof =           93
+ KRAKEN- Dickins seamount #93                                                    
+ iprof =           94
+ KRAKEN- Dickins seamount #94                                                    
+ depth-averaged power:  5.32282866E-04
+ New profile read at receiver range   27.800003              94  #modes =          225
+ iprof =           94
+ KRAKEN- Dickins seamount #94                                                    
+ iprof =           95
+ KRAKEN- Dickins seamount #95                                                    
+ depth-averaged power:  5.31272148E-04
+ New profile read at receiver range   28.100000              95  #modes =          231
+ iprof =           95
+ KRAKEN- Dickins seamount #95                                                    
+ iprof =           96
+ KRAKEN- Dickins seamount #96                                                    
+ depth-averaged power:  5.30292804E-04
+ New profile read at receiver range   28.400002              96  #modes =          237
+ iprof =           96
+ KRAKEN- Dickins seamount #96                                                    
+ iprof =           97
+ KRAKEN- Dickins seamount #97                                                    
+ depth-averaged power:  5.29347046E-04
+ New profile read at receiver range   28.700001              97  #modes =          243
+ iprof =           97
+ KRAKEN- Dickins seamount #97                                                    
+ iprof =           98
+ KRAKEN- Dickins seamount #98                                                    
+ depth-averaged power:  5.28402801E-04
+ New profile read at receiver range   29.000002              98  #modes =          248
+ iprof =           98
+ KRAKEN- Dickins seamount #98                                                    
+ iprof =           99
+ KRAKEN- Dickins seamount #99                                                    
+ depth-averaged power:  5.27487311E-04
+ New profile read at receiver range   29.300003              99  #modes =          254
+ iprof =           99
+ KRAKEN- Dickins seamount #99                                                    
+ iprof =          100
+ KRAKEN- Dickins seamount #100                                                   
+ depth-averaged power:  5.26577525E-04
+ New profile read at receiver range   29.600002             100  #modes =          259
+ iprof =          100
+ KRAKEN- Dickins seamount #100                                                   
+ iprof =          101
+ KRAKEN- Dickins seamount #101                                                   
+ depth-averaged power:  5.25911164E-04
+ New profile read at receiver range   29.900002             101  #modes =          265

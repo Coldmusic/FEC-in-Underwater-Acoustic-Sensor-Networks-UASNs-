@@ -1,0 +1,2 @@
+'RBO'				! 'R/X (coord), Pos/Neg/Both' note: pade interp has artifacts
+0.0  10.0  1001		! RMIN, RMAX, NR

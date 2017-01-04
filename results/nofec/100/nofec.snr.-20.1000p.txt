@@ -1,0 +1,19 @@
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_async_cc.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_async_cc.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/testData.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_async_cc.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_original_tagged.grc"
+
+>>> Done

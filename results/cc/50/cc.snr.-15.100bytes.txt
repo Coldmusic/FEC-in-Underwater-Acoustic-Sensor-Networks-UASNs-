@@ -1,0 +1,36 @@
+Using Volk machine: avx_64_mmx_orc
+
+>>> Done
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c ef 5c fc 9a 
+0010: 52 58 7d 9b 03 6f 3f 3b 54 67 97 fb d8 04 c9 62 
+0020: f3 c6 01 59 3d a4 64 32 b9 59 03 23 f5 0b fa 59 
+0030: c4 b8 bd ff cc 5e d8 77 2e 86 52 2a b7 b3 ca fc 
+0040: 6d 97 ff f2 f0 1f 42 cc 51 f7 cf 18 2d a7 87 ac 
+0050: c5 4e 9e 16 6a b3 3a 63 88 54 04 9a 12 30 5a 16 
+0060: 1f ff 87 2c 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 100
+contents = 
+0000: d0 22 e7 d5 20 f8 e9 38 a1 4e 18 8c 47 30 8c fe 
+0010: f5 ff f7 f7 28 b9 f8 fb f5 1c 7c cc cc 4c 24 01 
+0020: 6b 1c ea a3 ca e0 f5 80 a7 cc 09 5c d9 36 ef ae 
+0030: ad 66 c1 bd be 79 64 6c a7 2c 2b 4d b4 cc 08 51 
+0040: 46 df 0b 26 78 80 f6 08 ec 75 3c 7f 17 9a b5 48 
+0050: 64 99 5c 6b 6a 29 0d ee e2 75 3a 19 a4 b6 ba 7c 
+0060: 93 ef c0 db 
+***********************************
+
+>>> Done

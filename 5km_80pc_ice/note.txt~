@@ -1,0 +1,11 @@
+1-Put your arrival files is the same directory as this note is in.
+2-open pskProcessing.m in matlab
+3- call pskProcessing as follow:
+
+pskProcessing(5,540,'BPSK')
+
+where 5 is the number of arrival files you have
+540 is the record time of the BPSK
+
+you may have to change the name of the impulseResponse in PskProcessing.m
+

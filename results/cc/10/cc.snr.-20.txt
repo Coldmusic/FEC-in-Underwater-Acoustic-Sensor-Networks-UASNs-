@@ -1,0 +1,44 @@
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 8a 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 3e 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: 96 5c 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 3e 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: 96 5c 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 3e 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: 96 5c 
+***********************************
+
+>>> Done

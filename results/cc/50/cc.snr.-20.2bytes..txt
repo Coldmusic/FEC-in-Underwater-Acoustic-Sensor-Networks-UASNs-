@@ -1,0 +1,88 @@
+<<< Welcome to GNU Radio Companion 3.7.9.2 >>>
+
+Preferences file: /Users/margaritaotochkina/.gnuradio/grc.conf
+Block paths:
+	/opt/local/share/gnuradio/grc/blocks
+	/usr/local/share/gnuradio/grc/blocks
+	/Users/margaritaotochkina/.grc_gnuradio
+
+Loading: "/Users/margaritaotochkina/Desktop/testData.grc"
+>>> Done
+
+Showing: "/Users/margaritaotochkina/Desktop/testData.grc"
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_async_cc.grc"
+>>> Done
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_async_cc.grc"
+>>> Done
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_original_cc.grc"
+>>> Done
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_original_tagged.grc"
+>>> Done
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver_no_fec.grc"
+>>> Done
+
+Loading: "/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Sender_No_FEC.grc"
+>>> Done
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_original_cc.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_original_tagged.grc"
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Sender.py'
+>>> Warning: This flow graph may not have flow control: no audio or RF hardware blocks found. Add a Misc->Throttle block to your flow graph to avoid CPU congestion.
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Sender.py
+
+Using Volk machine: avx_64_mmx_orc
+message size is 0
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 6
+contents = 
+0000: a4 f2 ac dd a4 e2 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 6
+contents = 
+0000: f2 8c 20 fc 00 06 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 6
+contents = 
+0000: 00 06 ff b4 a9 21 
+***********************************
+
+>>> Done
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_original_cc.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_sender_original_tagged.grc"
+
+Showing: "/Users/margaritaotochkina/Desktop/Original GRC files-2/grc_receiver_original_cc.grc"
+
+Generating: '/Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py'
+
+Executing: /opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -u /Users/margaritaotochkina/Desktop/Original GRC files-2/FSK_Receiver.py
+
+Using Volk machine: avx_64_mmx_orc
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+* MESSAGE DEBUG PRINT PDU VERBOSE *
+()
+pdu_length = 2
+contents = 
+0000: d0 22 
+***********************************
+
+>>> Done
